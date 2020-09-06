@@ -1,0 +1,154 @@
+.divider-m .zigzag.medium, .divider .zigzag.large {
+    stroke: #fe8178 ;
+}
+
+
+.but.opc-2{
+	background:#fe8178;
+/* Prevent background color leak outs */
+	 -webkit-background-clip: padding-box; 
+	 -moz-background-clip:padding; 
+	 background-clip:padding-box;
+}
+
+.but.opc-3{
+	background:#fe8178;
+/* Prevent background color leak outs */
+	 -webkit-background-clip: padding-box; 
+	 -moz-background-clip:padding; 
+	 background-clip:padding-box;
+}
+
+
+.main-nav li a:before {
+  background: #fe8178;
+
+}
+
+
+.main-nav li a.active:before{
+	background: #fe8178;
+}
+
+
+.main-nav li a.active{
+	background: #fe8178;
+}
+
+
+.social a:hover {
+    border: 2px solid #fe8178;
+    color: #fe8178;
+}
+
+
+
+.skill.dev .progress {
+	border:1px solid #fe8178;
+}
+
+
+.skill.dev .progress .percentage {
+	background-color: #fe8178;
+}
+
+
+.skill .title.dev{
+	border: 1px dashed #fe8178;
+}
+
+
+.exp:after{
+ 	background: #fe8178;
+
+}
+
+
+.exp .hgroup h6 span.current{
+	background: #fe8178;
+}
+
+
+
+.block.service .ico{
+	color: #fe8178;
+}
+
+
+
+.filter li a:hover {
+    color: #fe8178;
+}
+
+
+
+
+
+.filter li a.active {
+    color: #fe8178;
+}
+
+
+.item a .desc {
+    background: rgba(254, 129, 120, 0.95) none repeat scroll 0 0;
+    
+}
+
+
+
+.block-nav-work li a:hover{
+	color:#fe8178;
+}
+
+
+span.meta-date{
+ 	background: #fe8178;
+
+}
+
+
+
+.post-meta  li a{
+    color:#fe8178;
+}
+
+.search-form input[type="text"] {
+    background: #fe8178;
+
+}
+
+
+.comments .reply-btn a {
+  background: #fe8178;
+}
+
+
+
+.comment-content .date a {
+	color: #fe8178;
+}
+
+
+.pagination ul li a.selected {
+    color: #fe8178;
+}
+
+
+.errorForm {
+    border: 1px solid #fe8178 !important;
+}
+
+
+
+.address-info i {
+    background:#fe8178;
+
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+	background: #fe8178;
+}
+
+

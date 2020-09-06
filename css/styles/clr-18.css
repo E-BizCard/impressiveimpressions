@@ -1,0 +1,154 @@
+.divider-m .zigzag.medium, .divider .zigzag.large {
+    stroke: #2997ab ;
+}
+
+
+.but.opc-2{
+	background:#2997ab;
+/* Prevent background color leak outs */
+	 -webkit-background-clip: padding-box; 
+	 -moz-background-clip:padding; 
+	 background-clip:padding-box;
+}
+
+.but.opc-3{
+	background:#2997ab;
+/* Prevent background color leak outs */
+	 -webkit-background-clip: padding-box; 
+	 -moz-background-clip:padding; 
+	 background-clip:padding-box;
+}
+
+
+.main-nav li a:before {
+  background: #2997ab;
+
+}
+
+
+.main-nav li a.active:before{
+	background: #2997ab;
+}
+
+
+.main-nav li a.active{
+	background: #2997ab;
+}
+
+
+.social a:hover {
+    border: 2px solid #2997ab;
+    color: #2997ab;
+}
+
+
+
+.skill.dev .progress {
+	border:1px solid #2997ab;
+}
+
+
+.skill.dev .progress .percentage {
+	background-color: #2997ab;
+}
+
+
+.skill .title.dev{
+	border: 1px dashed #2997ab;
+}
+
+
+.exp:after{
+ 	background: #2997ab;
+
+}
+
+
+.exp .hgroup h6 span.current{
+	background: #2997ab;
+}
+
+
+
+.block.service .ico{
+	color: #2997ab;
+}
+
+
+
+.filter li a:hover {
+    color: #2997ab;
+}
+
+
+
+
+
+.filter li a.active {
+    color: #2997ab;
+}
+
+
+.item a .desc {
+    background: rgba(41, 151, 171, 0.95) none repeat scroll 0 0;
+    
+}
+
+
+
+.block-nav-work li a:hover{
+	color:#2997ab;
+}
+
+
+span.meta-date{
+ 	background: #2997ab;
+
+}
+
+
+
+.post-meta  li a{
+    color:#2997ab;
+}
+
+.search-form input[type="text"] {
+    background: #2997ab;
+
+}
+
+
+.comments .reply-btn a {
+  background: #2997ab;
+}
+
+
+
+.comment-content .date a {
+	color: #2997ab;
+}
+
+
+.pagination ul li a.selected {
+    color: #2997ab;
+}
+
+
+.errorForm {
+    border: 1px solid #2997ab !important;
+}
+
+
+
+.address-info i {
+    background:#2997ab;
+
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+	background: #2997ab;
+}
+
+

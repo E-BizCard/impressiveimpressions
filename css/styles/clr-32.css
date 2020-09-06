@@ -1,0 +1,154 @@
+.divider-m .zigzag.medium, .divider .zigzag.large {
+    stroke: #9197a3 ;
+}
+
+
+.but.opc-2{
+	background:#9197a3;
+/* Prevent background color leak outs */
+	 -webkit-background-clip: padding-box; 
+	 -moz-background-clip:padding; 
+	 background-clip:padding-box;
+}
+
+.but.opc-3{
+	background:#9197a3;
+/* Prevent background color leak outs */
+	 -webkit-background-clip: padding-box; 
+	 -moz-background-clip:padding; 
+	 background-clip:padding-box;
+}
+
+
+.main-nav li a:before {
+  background: #9197a3;
+
+}
+
+
+.main-nav li a.active:before{
+	background: #9197a3;
+}
+
+
+.main-nav li a.active{
+	background: #9197a3;
+}
+
+
+.social a:hover {
+    border: 2px solid #9197a3;
+    color: #9197a3;
+}
+
+
+
+.skill.dev .progress {
+	border:1px solid #9197a3;
+}
+
+
+.skill.dev .progress .percentage {
+	background-color: #9197a3;
+}
+
+
+.skill .title.dev{
+	border: 1px dashed #9197a3;
+}
+
+
+.exp:after{
+ 	background: #9197a3;
+
+}
+
+
+.exp .hgroup h6 span.current{
+	background: #9197a3;
+}
+
+
+
+.block.service .ico{
+	color: #9197a3;
+}
+
+
+
+.filter li a:hover {
+    color: #9197a3;
+}
+
+
+
+
+
+.filter li a.active {
+    color: #9197a3;
+}
+
+
+.item a .desc {
+    background: rgba(145, 151, 163, 0.95) none repeat scroll 0 0;
+    
+}
+
+
+
+.block-nav-work li a:hover{
+	color:#9197a3;
+}
+
+
+span.meta-date{
+ 	background: #9197a3;
+
+}
+
+
+
+.post-meta  li a{
+    color:#9197a3;
+}
+
+.search-form input[type="text"] {
+    background: #9197a3;
+
+}
+
+
+.comments .reply-btn a {
+  background: #9197a3;
+}
+
+
+
+.comment-content .date a {
+	color: #9197a3;
+}
+
+
+.pagination ul li a.selected {
+    color: #9197a3;
+}
+
+
+.errorForm {
+    border: 1px solid #9197a3 !important;
+}
+
+
+
+.address-info i {
+    background:#9197a3;
+
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+	background: #9197a3;
+}
+
+
